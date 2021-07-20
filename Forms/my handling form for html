@@ -1,0 +1,14 @@
+<form action= "/my-handling-form-page" method="post">
+    <li>
+      <label for="name" Name: </label>
+      <input type="text" id="Name" name="username>"
+    </li>
+    <li>
+      <label for="mail">Email: </label>
+      <input type="email"> id="mail" name="username">
+    </li>
+    <li>
+      <label for="msg"> Message:</label>
+      <text area id="msg" name="user message"> </text area>
+    </li>
+  </form>
